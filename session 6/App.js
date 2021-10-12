@@ -1,14 +1,11 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Foodlist from "./Assignment6/Foodlist"
 
 function App() {
   return (
-    <div className="container" id="main">
-      
-     </div>
+    <Foodlist/>
   );
 }
+
 export default App;
-
-
